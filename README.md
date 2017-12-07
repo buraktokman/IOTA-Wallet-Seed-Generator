@@ -12,7 +12,7 @@ Python script which generates 81 character lenght IOTA Wallet Seed string which 
 
 ### USAGE:
 ------
-`python seed.py
+`python seed.py`
 
 ### Instructions
 ------
